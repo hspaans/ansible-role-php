@@ -2,19 +2,19 @@
 
 Install and maintain Nagios.
 
-# Requirements
+## Requirements
 
 None.
 
-# Role Variables
+## Role Variables
 
 Default variables are set in `defaults/main.yml`.
 
-# Dependencies
+## Dependencies
 
 No dependency on other Ansible Galaxy roles.
 
-# Example Playbook
+## Example Playbook
 
     - hosts: servers
       roles:
